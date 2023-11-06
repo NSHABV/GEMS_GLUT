@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C75464212AF825E900E99CEC /* eventHandlerClass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C754641F2AF825E900E99CEC /* eventHandlerClass.cpp */; };
 		C7D554972AB79CD8008B4223 /* windowClass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7D554922AB79CD8008B4223 /* windowClass.cpp */; };
 		C7D554982AB79CD8008B4223 /* gemsClass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7D554932AB79CD8008B4223 /* gemsClass.cpp */; };
 		C7D554992AB79CD8008B4223 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7D554942AB79CD8008B4223 /* main.cpp */; };
@@ -30,6 +31,9 @@
 
 /* Begin PBXFileReference section */
 		C713D6022AB7AF1A001B843C /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
+		C754641F2AF825E900E99CEC /* eventHandlerClass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = eventHandlerClass.cpp; sourceTree = "<group>"; };
+		C75464202AF825E900E99CEC /* eventHandlerClass.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = eventHandlerClass.hpp; sourceTree = "<group>"; };
+		C75464222AF8CE0100E99CEC /* colorIdentifier.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colorIdentifier.h; sourceTree = "<group>"; };
 		C7D554882AB79CC2008B4223 /* CPPGemsGLUT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPPGemsGLUT; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7D554922AB79CD8008B4223 /* windowClass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = windowClass.cpp; sourceTree = "<group>"; };
 		C7D554932AB79CD8008B4223 /* gemsClass.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = gemsClass.cpp; sourceTree = "<group>"; };
@@ -86,6 +90,9 @@
 				C7D554942AB79CD8008B4223 /* main.cpp */,
 				C7D554922AB79CD8008B4223 /* windowClass.cpp */,
 				C7D554952AB79CD8008B4223 /* windowClass.h */,
+				C754641F2AF825E900E99CEC /* eventHandlerClass.cpp */,
+				C75464202AF825E900E99CEC /* eventHandlerClass.hpp */,
+				C75464222AF8CE0100E99CEC /* colorIdentifier.h */,
 			);
 			path = CPPGemsGLUT;
 			sourceTree = "<group>";
@@ -159,6 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C75464212AF825E900E99CEC /* eventHandlerClass.cpp in Sources */,
 				C7D554982AB79CD8008B4223 /* gemsClass.cpp in Sources */,
 				C7D554972AB79CD8008B4223 /* windowClass.cpp in Sources */,
 				C7D554992AB79CD8008B4223 /* main.cpp in Sources */,

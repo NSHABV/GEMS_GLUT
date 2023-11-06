@@ -4,14 +4,6 @@
 #include <random>
 #include "gemsClass.h"
 
-struct delayedBonus
-{
-	Sn_BonusAttribute triggeredBonus;
-	int colNum;
-	int rowNum;
-	Sn_ColorIdentifier origColor;
-};
-
 enum sideId
 {
     left,
@@ -41,9 +33,7 @@ public:
 	void handleRightMouseClick(int x, int y);
 
 	void idleFunc();
-	void processBonus(const delayedBonus& bonusForProcess);
-
-	delayedBonus constructBonus(int index);
+    
 	bool isNeighbour(int indexOne, int indexTwo);
 	void bonusesProcessing();
 private:
@@ -60,13 +50,15 @@ private:
 	std::mt19937 m_randomGen;
 
 	int m_selectedGemIndex = 0;
+    int m_selectedOldGemIndex = -1;
 	int m_recentlyReshaped = false;
 
-	std::vector<delayedBonus> m_bonusesForProcessing;
+	std::vector<std::pair<Sn_StandardGem*, int>> m_gemsForBonusProcessing;
+    Sn_EventHandler *m_handle;
     
     void drawGemBoundary();
     void sideCheck(int rowNum, int columnNum, int scheduledIndex, std::vector<int> &deletionIndexes, sideId side);
-    
+    void bonusGemAssignation(int col, int row);
     void deletionCheckRows(int i, int a, std::vector<int> &indexes, int currentRowCount);
     void deletionCheckColumns(int i, int a, std::vector<int> &indexes, int currentColumnCount);
 };

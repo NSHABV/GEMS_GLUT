@@ -7,127 +7,238 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "A87CEE26-FD6E-411D-929C-116F22BE0F1A"
+            uuid = "A6C9FBE4-DAB0-48A8-8CA1-0C5DDEFB66F0"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/main.cpp"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
-            landmarkName = "mouseHandle(button, state, x, y)"
-            landmarkType = "9">
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "Sn_EventHandler::processBonusRecolor(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "3A6005B5-B853-4950-8C98-E9EB9CEFEA68"
+            uuid = "4F65FCAA-6A8E-4385-9439-F2CD0C915199"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/main.cpp"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
-            landmarkName = "mouseHandle(button, state, x, y)"
-            landmarkType = "9">
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "Sn_EventHandler::processBonusRecolor(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F65FCAA-6A8E-4385-9439-F2CD0C915199 - 847d1898481c6a5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_EventHandler::processBonusRecolor(Sn_StandardGem**, Sn_StandardGem*, std::__1::vector&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt; &gt; &gt;&amp;, int, int)"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/eventHandlerClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1520">
+               </Location>
+               <Location
+                  uuid = "4F65FCAA-6A8E-4385-9439-F2CD0C915199 - 847d1898481c6a5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_EventHandler::processBonusRecolor(Sn_StandardGem**, Sn_StandardGem*, std::__1::vector&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt; &gt; &gt;&amp;, int, int)"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/eventHandlerClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1672">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6C10C542-F967-4788-B9F7-8B9DFE7732A1"
+            uuid = "33740475-7A38-4374-9CC5-6F13EBBD8349"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/main.cpp"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
-            landmarkName = "mouseHandle(button, state, x, y)"
-            landmarkType = "9">
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "Sn_EventHandler::processBonusRecolor(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "46ED6F2C-1C42-4BA3-9FC8-930F6D28FB3A"
+            uuid = "7604572B-44FF-4736-8E04-F90496F0DC6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "Sn_EventHandler::processBonusRecolor(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7604572B-44FF-4736-8E04-F90496F0DC6E - 847d1898481c55ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_EventHandler::processBonusRecolor(Sn_StandardGem**, Sn_StandardGem*, std::__1::vector&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt; &gt; &gt;&amp;, int, int)"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/eventHandlerClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+               <Location
+                  uuid = "7604572B-44FF-4736-8E04-F90496F0DC6E - 847d1898481c6a39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_EventHandler::processBonusRecolor(Sn_StandardGem**, Sn_StandardGem*, std::__1::vector&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt; &gt; &gt;&amp;, int, int)"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/eventHandlerClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "1748">
+               </Location>
+               <Location
+                  uuid = "7604572B-44FF-4736-8E04-F90496F0DC6E - 847d1898481c6a7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_EventHandler::processBonusRecolor(Sn_StandardGem**, Sn_StandardGem*, std::__1::vector&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;Sn_StandardGem*, int&gt; &gt; &gt;&amp;, int, int)"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/eventHandlerClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BD0D100-8618-4E06-BDC1-451CADE4A62E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "Sn_EventHandler::processBonusRecolor(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4BF6FAA-B24C-4553-A557-A7A462E76AFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "Sn_EventHandler::processBonusRecolor(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0794EEC1-5BB5-4F2B-A61E-A736EE4E9565"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CPPGemsGLUT/windowClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "545"
-            endingLineNumber = "545"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
             landmarkName = "Sn_GemContainer::idleFunc()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0794EEC1-5BB5-4F2B-A61E-A736EE4E9565 - d87babfc9b7e4ae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_GemContainer::idleFunc()"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/windowClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "400"
+                  endingLineNumber = "400"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "0794EEC1-5BB5-4F2B-A61E-A736EE4E9565 - d87babfc9b7e4a83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sn_GemContainer::idleFunc()"
+                  moduleName = "CPPGemsGLUT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nisha/repos/CPPGemsGLUT/CPPGemsGLUT/windowClass.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "31134823-CCA4-451C-8A1F-D066423245AC"
+            uuid = "5A2CAB02-D263-47DF-8021-F4F7009AB756"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CPPGemsGLUT/windowClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "534"
-            endingLineNumber = "534"
-            landmarkName = "Sn_GemContainer::idleFunc()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "528353D4-A202-4300-A504-BA92BFF1B311"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "541"
-            endingLineNumber = "541"
-            landmarkName = "Sn_GemContainer::idleFunc()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8F3FEB6A-74E8-4773-862B-F513B7875E4D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "302"
-            endingLineNumber = "302"
-            landmarkName = "Sn_GemContainer::destructionCheck()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8B82F14E-57F3-4F8C-9716-60FF02785102"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "482"
-            endingLineNumber = "482"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
             landmarkName = "Sn_GemContainer::handleMouseClick(x, y)"
             landmarkType = "7">
          </BreakpointContent>
@@ -135,192 +246,48 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8127AD4C-3A7D-475E-B7B3-B9D63B1C580C"
+            uuid = "C1515861-897A-463E-8CEF-A92A4AD44C0E"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CPPGemsGLUT/windowClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "514"
-            endingLineNumber = "514"
-            landmarkName = "Sn_GemContainer::handleRightMouseClick(x, y)"
+            startingLineNumber = "400"
+            endingLineNumber = "400"
+            landmarkName = "Sn_GemContainer::idleFunc()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "A58E10D8-1D51-4D80-8764-EEC50C5F1277"
+            uuid = "6152D300-0C6B-4922-822B-4160D88B7B6C"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CPPGemsGLUT/windowClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "507"
-            endingLineNumber = "507"
-            landmarkName = "Sn_GemContainer::handleRightMouseClick(x, y)"
+            startingLineNumber = "399"
+            endingLineNumber = "399"
+            landmarkName = "Sn_GemContainer::idleFunc()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "D7D2EC48-F476-4CFD-A09C-87088A5AAF6C"
-            shouldBeEnabled = "No"
+            uuid = "41F56DB4-38C7-4D96-A1C0-9B6D1565934F"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
+            filePath = "CPPGemsGLUT/eventHandlerClass.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "80"
-            endingLineNumber = "80"
-            landmarkName = "Sn_GemContainer::drawGems()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2C1985BA-EEB1-4609-8706-E09EBC5C1834"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "displayMe()"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E089666D-E7F1-41E8-8C9B-EE097054AAE9"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/main.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "idleHandle()"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B5FB04E8-97C2-4F1D-A753-5A47B5D28269"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
-            landmarkName = "Sn_GemContainer::deletionCheckRows(i, a, indexes, currentRowCount)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5FFB634E-98BE-45BF-833C-1F78A1EF1875"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "337"
-            endingLineNumber = "337"
-            landmarkName = "Sn_GemContainer::processBonus(bonusForProcess)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A2581692-AA9A-4EEA-A0B9-0A69CC76DF01"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "345"
-            endingLineNumber = "345"
-            landmarkName = "Sn_GemContainer::processBonus(bonusForProcess)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "0FDAEFC4-B85A-4170-AD27-2810F8310990"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "355"
-            endingLineNumber = "355"
-            landmarkName = "Sn_GemContainer::processBonus(bonusForProcess)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2E50E804-C540-4A9E-BBF6-824F4BDBEB78"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "408"
-            endingLineNumber = "408"
-            landmarkName = "Sn_GemContainer::isNeighbour(indexOne, indexTwo)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "ED468A0B-109E-47EA-9B08-F79BC9410BAA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "409"
-            endingLineNumber = "409"
-            landmarkName = "Sn_GemContainer::isNeighbour(indexOne, indexTwo)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "10FF8841-88E0-42DB-8C33-0AA85237DCA4"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CPPGemsGLUT/windowClass.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "344"
-            endingLineNumber = "344"
-            landmarkName = "Sn_GemContainer::processBonus(bonusForProcess)"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "Sn_EventHandler::processBonusExplosive(gemTab, bonus, bonusesForProcessing, rowNum, colNum)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
